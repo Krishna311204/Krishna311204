@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my Socials are available at [https://linktr.ee/krishnap31?utm_source=linktree_profile_share&ltsid=b5a0af6c-4aff-471a-be14-1bcb3fc9829e](https://linktr.ee/krishnap31?utm_source=linktree_profile_share&ltsid=b5a0af6c-4aff-471a-be14-1bcb3fc9829e)
+- 👨‍💻 All of my Socials are available at [https://linktr.ee/krishnap31](https://linktr.ee/krishnap31?utm_source=linktree_profile_share&ltsid=b5a0af6c-4aff-471a-be14-1bcb3fc9829e)
 
 - 💬 Ask me about **Machine Learning**
 
